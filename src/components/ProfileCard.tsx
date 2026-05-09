@@ -60,7 +60,7 @@ const ProfileCard = () => {
                 </div>
 
                 {/* Discord Status */}
-                <DiscordStatus userId={DISCORD_USER_ID} />
+                <DiscordStatus userId={1149165064335675423} />
 
                 {/* Music Player */}
                 <MusicPlayer tracks={tracks} />
