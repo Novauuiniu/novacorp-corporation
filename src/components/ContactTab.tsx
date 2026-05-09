@@ -11,20 +11,20 @@ const contacts: ContactLink[] = [
   {
     icon: <MessageCircle size={14} />,
     label: 'Discord',
-    value: 'arcticayl',
-    href: 'https://discord.com/users/arcticayl',
+    value: 'dotdash_nova',
+    href: 'https://discord.com/users/1149165064335675423',
   },
   {
     icon: <Github size={14} />,
     label: 'GitHub',
-    value: '@irenic.alyaa',
-    href: 'https://github.com/irenic.alyaa',
+    value: '@Novauuiniu',
+    href: 'https://github.com/Novauuiniu',
   },
   {
     icon: <Mail size={14} />,
     label: 'Email',
-    value: 'businesswithmikasa@gmail.com',
-    href: 'mailto:businesswithmikasa@gmail.com',
+    value: 'powercorepro@gmail.com',
+    href: 'mailto:powercorepro@gmail.com',
   },
 ];
 
